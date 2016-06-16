@@ -8,12 +8,16 @@ Route prefixing  or Route grouping in Express
  
  browse http://localhost:8080
  
- routes
+ #routes
  
  http://localhost:8080/home
+ 
  http://localhost:8080/cats
+ 
  http://localhost:8080/cats/detail
+ 
  http://localhost:8080/dogs
+ 
  http://localhost:8080/dogs/detail
  
  
